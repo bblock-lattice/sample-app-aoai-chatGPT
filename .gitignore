@@ -5,3 +5,4 @@ frontend/node_modules
 .azure/
 __pycache__/
 /.vs/slnx.sqlite
+/.vs/sample-app-aoai-chatGPT/v16/.suo
